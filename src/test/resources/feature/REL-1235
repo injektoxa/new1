@@ -1,10 +1,10 @@
-@ST_369841779 @gfsdfgr
+@gfsdfgr @ST_369841779
 Feature: Auto test featureuuuuuff
 THIS IS DESCRIPTION
 
 Background: bg
 
-Given test
+Given testeddddd
 And test2
 When test2222
 
