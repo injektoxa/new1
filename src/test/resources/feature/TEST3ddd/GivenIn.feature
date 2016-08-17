@@ -6,11 +6,12 @@ Background:
 
 Given this story has background with given keyword
 
-@SC_982961585
-Scenario: 
-Given this story has background with given keyword
-
 @SC_09687437
+Scenario: 
+Given ddddthis story has background with given keyword
+When sss
+
+@SC_982961585
 Scenario: 
 Given this story has background with given keyword
 
