@@ -1,4 +1,4 @@
-@Story_BookSearch @ST_521790299
+@ST_521790299
 Feature: Salary Management
 
 Background: 
