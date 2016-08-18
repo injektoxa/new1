@@ -1,9 +1,9 @@
 @ST_575236932
 Feature: test
 
-@dddd @SC_946792133 @dfasdf
+@SC_946792133 @dddd @dfasdf
 Scenario: dddd
 dddd
-Given aaa
+Given aaasssssssss
 When sss
 
