@@ -1,3 +1,3 @@
-@aaaa @ST_184053172
+@ST_184053172
 Feature: aaaa
 
