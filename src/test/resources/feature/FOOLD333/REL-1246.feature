@@ -4,7 +4,7 @@ I want to see new description ddddd
 
 Background: bgname
 lalalala1
-Given there is some backgroundkkkk
+Given there is some
 
 @SC_527893915
 Scenario: Second scenario
