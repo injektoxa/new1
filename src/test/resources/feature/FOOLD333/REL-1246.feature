@@ -9,7 +9,7 @@ Given there is some
 @SC_527893915
 Scenario: Second scenario
 Some description
-Given I created scenario
+Given I created scenarioddddd
 Then I see it in Relime
 #comment
 
