@@ -6,3 +6,10 @@ Background: bgname
 lalalala1fffff
 Given there is some dddd
 
+@SC_527893915
+Scenario: Second scenario
+Some description
+Given I created scenarioddddd
+Then I see it in Relime
+#comment
+
