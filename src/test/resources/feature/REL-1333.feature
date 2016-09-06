@@ -22,3 +22,9 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 When I saw a comment
 
+@SC_433403924 @safasdf
+Scenario: scena
+Some new description
+Given I created scenario with comments
+Then I see them in scenario
+
