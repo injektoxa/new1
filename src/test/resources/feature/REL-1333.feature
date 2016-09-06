@@ -28,3 +28,9 @@ Some new description
 Given I created scenario with comments
 Then I see them in scenario
 
+@SC_317256552
+Scenario: 1a
+Some new descriptionesrrrcc
+Given I createdыы scenario with comments
+Then I see them in scenario
+
