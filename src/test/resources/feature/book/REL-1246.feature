@@ -6,8 +6,8 @@ Background: bgname
 lalalala1fffff
 Given there is some ddddcccxx
 
-@asdf @ddd @SC_855543755
-Scenario: dasd
+@SC_855543755 @asdf @ddd
+Scenario: dasdterd
 sadf
 Given asa
 When ddds
