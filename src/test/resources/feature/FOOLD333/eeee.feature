@@ -4,7 +4,7 @@ eeee
 
 @SC_208013346 @adfasdf @eeeee
 Scenario: nameeedw
-descr
+description
 Given aaaaeesdfasdfe
 When dddfdfas
 
