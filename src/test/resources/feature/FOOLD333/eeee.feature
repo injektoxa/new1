@@ -1,9 +1,9 @@
-@ST_208224136 @eee
+@eee @ST_208224136
 Feature: EEEEdddds
 eeee
 
 @SC_208013346
-Scenario: nameeed
+Scenario: nameeedw
 descr
 Given aaaaeesdfasdfe
 When dddfdfas
