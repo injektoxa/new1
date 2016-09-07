@@ -2,8 +2,8 @@
 Feature: EEEE
 eeee
 
-@aaa @dd @SC_208013346
-Scenario: namee
+@SC_208013346 @aaa
+Scenario: nameee
 descr
 Given aaaa
 When ddd
