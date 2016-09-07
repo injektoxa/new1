@@ -380,3 +380,8 @@ Then i want do smth with "smth"
 #And another book with the title 'How to cook a dino', written by 'Fred Flintstone', published in 01 January 2012
 #This is another example scenarios with table and example table
 
+@SC_529712211
+Scenario: 
+Given gg
+And ff
+
