@@ -1,5 +1,5 @@
-@eee @ST_208224136
-Feature: EEEE
+@ST_208224136 @eee
+Feature: EEEEdddds
 eeee
 
 @SC_208013346
