@@ -3,7 +3,7 @@ Feature: EEEE
 eeee
 
 @SC_208013346 @dasdfasdf
-Scenario: nameee
+Scenario: nameeed
 descr
 Given aaaa
 When ddd
