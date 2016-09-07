@@ -2,8 +2,8 @@
 Feature: EEEEdddds
 eeee
 
-@SC_208013346 @adfasdf @eeeee
-Scenario: nameeedw
+@SC_208013346 @eeeee
+Scenario: nameeedweee
 description
 Given aaaaeesdfasdfe
 When dddfdfas
