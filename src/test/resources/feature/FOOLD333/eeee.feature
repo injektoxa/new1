@@ -2,7 +2,7 @@
 Feature: EEEE
 eeee
 
-@SC_208013346 @aaa
+@SC_208013346 @dasdfasdf
 Scenario: nameee
 descr
 Given aaaa
