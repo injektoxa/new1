@@ -5,7 +5,7 @@ Feature: Book search OLD name
 Background: ddde
 
 Given a $2000
-And today is 2015-11-18
+And today is 2015-11-18ввввввыа
 #comment for background
 
 @Critical @Test_1 @SC_437171348 @fgfg
@@ -36,7 +36,7 @@ Given the salary management system is initialized with the following data
 When dddd
 
 @Test_1 @High @SC_437412107
-Scenario Outline: Modify an employee's salary
+Scenario Outline: Modify an employee's salaryssssвввва
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
 Then the payroll for the employee with <id> should display a salary of <salary>

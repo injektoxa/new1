@@ -3,7 +3,7 @@ Feature: EEEEdddds
 eeee
 
 @SC_208013346 @eeeee
-Scenario: nameeedweeeв
+Scenario: nameeedweeeвsssssss
 description
 Given aaaaeesdfasdfe
 When dddfdfas
