@@ -8,21 +8,8 @@ Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 #comment for background
 
-@Critical @Test_1 @SC_437171348 @fgfg
-Scenario: Search books by publication yearsdыыыыыseeefsaf
-ffg
-And another book with the title 'Some other book', written by 'Tim Tomson Junior', published in 23 August 2014
-When the customer searches for books published between 2013 and 2014
-Then 2 books should have been found
-And Book 1 should have the title 'Some other book'
-And Book 2 should have the title '1 good book'
-Then i want do smth with "smth"
-#Given a book with the title 'One good book', written by 'Anonymous', published in 14 March 2013
-#And another book with the title 'How to cook a dino', written by 'Fred Flintstone', published in 01 January 2012
-#This is another example scenarios with table and example table
-
-@Critical @Test_1 @SC_437300219
-Scenario: Modify
+@SC_437300219 @Critical @Test_1
+Scenario: Modifyааау
 Given the salary management system is initialized with the following data
 |id|user|salary|
 |1|donald|60000.0|
@@ -34,6 +21,19 @@ Given the salary management system is initialized with the following data
 |7|mickey|51000.0|
 |8|fethry|66500.0|
 When dddd
+
+@Critical @Test_1 @SC_437171348 @fgfg
+Scenario: Search books by publication
+ffg
+And another book with the title 'Some other book', written by 'Tim Tomson Junior', published in 23 August 2014
+When the customer searches for books published between 2013 and 2014
+Then 2 books should have been found
+And Book 1 should have the title 'Some other book'
+And Book 2 should have the title '1 good book'
+Then i want do smth with "smth"
+#Given a book with the title 'One good book', written by 'Anonymous', published in 14 March 2013
+#And another book with the title 'How to cook a dino', written by 'Fred Flintstone', published in 01 January 2012
+#This is another example scenarios with table and example table
 
 @Test_1 @High @SC_437412107
 Scenario Outline: Modify an employee's salary
