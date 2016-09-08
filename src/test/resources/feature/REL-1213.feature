@@ -8,20 +8,6 @@ Given a $100 microwave was sold on 2015-11-03
 And today is 2015-11-18
 #comment for background
 
-@SC_437300219 @Critical @Test_1
-Scenario: Modifyааау
-Given the salary management system is initialized with the following data
-|id|user|salary|
-|1|donald|60000.0|
-|2|dewie|62000.0|
-|3|goofy|55000.0|
-|4|scrooge|70000.0|
-|5|daisy|56000.0|
-|6|minnie|62000.0|
-|7|mickey|51000.0|
-|8|fethry|66500.0|
-When dddd
-
 @Critical @Test_1 @SC_437171348 @fgfg
 Scenario: Search books by publication
 ffg
@@ -34,6 +20,20 @@ Then i want do smth with "smth"
 #Given a book with the title 'One good book', written by 'Anonymous', published in 14 March 2013
 #And another book with the title 'How to cook a dino', written by 'Fred Flintstone', published in 01 January 2012
 #This is another example scenarios with table and example table
+
+@Critical @Test_1 @SC_437300219
+Scenario: Modifyааау
+Given the salary management system is initialized with the following data
+|id|user|salary|
+|1|donald|60000.0|
+|2|dewie|62000.0|
+|3|goofy|55000.0|
+|4|scrooge|70000.0|
+|5|daisy|56000.0|
+|6|minnie|62000.0|
+|7|mickey|51000.0|
+|8|fethry|66500.0|
+When dddd
 
 @Test_1 @High @SC_437412107
 Scenario Outline: Modify an employee's salary
