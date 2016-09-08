@@ -7,7 +7,7 @@ asdfs
 Given sdaf
 When asfd
 
-@SC_488251235 @sadf
+@SC_488251235
 Scenario: asf
 asdf
 Given asdfddfsad
