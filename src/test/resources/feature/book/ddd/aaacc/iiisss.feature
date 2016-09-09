@@ -7,9 +7,9 @@ asdfs
 Given sdaf
 When asfd
 
-@sef @SC_325689167
-Scenario: esaf
-asef
+@SC_701335817
+Scenario: eeeedcdweee
+фыа
 Given asdf
 When asdf
 
@@ -19,9 +19,9 @@ asdfdddd
 Given asdfddfsad
 When asdfas
 
-@SC_701335817
-Scenario: eeeedcd
-фыа
+@sef @SC_325689167
+Scenario: esaf
+asef
 Given asdf
 When asdf
 
