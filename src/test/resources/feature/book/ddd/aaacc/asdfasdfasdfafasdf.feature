@@ -2,6 +2,12 @@
 Feature: asdf
 asfd
 
+@aaa @SC_428438673
+Scenario: aaaaa
+asdfaaa
+Given asdf
+When sdaf
+
 @asdfasdf @SC_1036630230
 Scenario: asdf
 asdfasf
@@ -9,7 +15,7 @@ Given asdfaaasd
 When asdfsdf
 
 @SC_602294641
-Scenario: asdf
+Scenario: asdfвввв
 asdf
 Given asdf
 When sadf
