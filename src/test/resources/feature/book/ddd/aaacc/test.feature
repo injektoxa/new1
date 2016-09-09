@@ -2,7 +2,7 @@
 Feature: Test
 
 @SC_1038103861
-Scenario: th
+Scenario: thууу
 this is first test sc
 Given 1
 When 2
