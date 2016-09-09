@@ -187,7 +187,7 @@ Then i want do smth with "smth"
 #This is another example scenarios with table and example table
 
 @SC_409192274
-Scenario: 8
+Scenario: 8eeeeeee
 Given asd
 And another book with the title 'Some other book', written by 'Tim Tomson Junior', published in 23 August 2014
 When the customer searches for books published between 2013 and 2014
