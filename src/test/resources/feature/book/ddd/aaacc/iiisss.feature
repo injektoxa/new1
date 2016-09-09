@@ -8,7 +8,7 @@ Given sdaf
 When asfd
 
 @SC_488251235
-Scenario: ccfsddfsaiiвафыddss
+Scenario: ccfsddfsaiiвафыddsssss
 asdfdddd
 Given asdfddfsad
 When asdfas
