@@ -3,7 +3,7 @@ Feature: asdf
 asfd
 
 @SC_602294641
-Scenario: asdfввввeeeeуу
+Scenario: asdfввввeeeeууe
 asdf
 Given asdf
 When sadf
