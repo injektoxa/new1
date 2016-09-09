@@ -19,7 +19,7 @@ Scenario: eeeedcdweee
 Given asdf
 When asdf
 
-@sef @SC_325689167
+@sef @SC_325689167 @fsdgsfs
 Scenario: esaf
 asef
 Given asdf

@@ -2,17 +2,17 @@
 Feature: asdf
 asfd
 
+@asdfasdf @SC_1036630230
+Scenario: asdfeeeeeeee
+asdfasf
+Given asdfaaasd
+When asdfsdfsafsadf
+
 @SC_602294641
 Scenario: asdfввввeeeeууe
 asdf
 Given asdf
-When sadf
-
-@asdfasdf @SC_1036630230
-Scenario: asdfeeee
-asdfasf
-Given asdfaaasd
-When asdfsdf
+When sadfыва
 
 @SC_616257359
 Scenario: dasf
