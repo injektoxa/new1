@@ -6,12 +6,6 @@ eee
 Given aaaa
 When eee
 
-@ddd @SC_449944712
-Scenario: asdf
-asdf
-Given adf
-When easdf
-
 @asdf @SC_630675372
 Scenario: a1111
 adf
@@ -53,4 +47,10 @@ Scenario: asdf
 asdf
 Given asd
 When asdf
+
+@ddd @SC_449944712
+Scenario: asdf
+asdf
+Given adf
+When easdf
 

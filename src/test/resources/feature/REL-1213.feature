@@ -2,14 +2,14 @@
 Feature: Book search OLD name
   To allow a customer to find his favourite books quickly, the library must offer multiple ways to search for a book.
 
-Background: ddde
+Background: ddded
 
 Given a $2000
 And today is 2015-11-18ввввввыа
 #comment for background
 
 @Critical @Test_1 @SC_437171348 @fgfg
-Scenario: Search books by publication
+Scenario: Search books by publicationddd
 ffg
 And another book with the title 'Some other book', written by 'Tim Tomson Junior', published in 23 August 2014
 When the customer searches for books published between 2013 and 2014

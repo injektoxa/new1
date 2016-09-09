@@ -7,15 +7,15 @@ asdfs
 Given sdaf
 When asfd
 
+@SC_488251235
+Scenario: asfccccfsddfsaiiвафыddss
+asdfdddd
+Given asdfddfsad
+When asdfas
+
 @SC_701335817
 Scenario: eeeedcd
 фыа
 Given asdf
 When asdf
-
-@SC_488251235
-Scenario: asfccccfsddfsaiiвафыdd
-asdfdddd
-Given asdfddfsad
-When asdfas
 
