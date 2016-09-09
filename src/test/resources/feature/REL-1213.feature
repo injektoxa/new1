@@ -9,7 +9,7 @@ Given a $2000
 And today is 2015-11-18ввввввыа
 
 @Critical @Test_1 @SC_437171348 @fgfg
-Scenario: Search books by pu
+Scenario: Search books by puddddd
 ffg
 #Given a book with the title 'One good book', written by 'Anonymous', published in 14 March 2013
 #And another book with the title 'How to cook a dino', written by 'Fred Flintstone', published in 01 January 2012
@@ -23,7 +23,7 @@ Then i want do smth with "smth"
 
 @Critical @Test_1 @SC_437300219
 Scenario: Modifyааауeeee
-Given the salary management system is initialized with the following data
+Given the salary managdddddement system is initialized with the following data
 |id|user|salary|
 |1|donald|60000.0|
 |2|dewie|62000.0|
@@ -33,7 +33,6 @@ Given the salary management system is initialized with the following data
 |6|minnie|62000.0|
 |7|mickey|51000.0|
 |8|fethry|66500.0|
-
 When dddd
 
 @Test_1 @High @SC_437412107

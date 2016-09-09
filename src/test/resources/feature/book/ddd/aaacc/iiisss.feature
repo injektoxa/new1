@@ -15,7 +15,7 @@ When asdfas
 
 @SC_701335817
 Scenario: eeeedcdweee
-фыа
+фыаeeeeeee
 Given asdf
 When asdf
 
