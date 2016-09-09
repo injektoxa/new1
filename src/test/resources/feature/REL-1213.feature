@@ -8,8 +8,8 @@ Given a $2000
 And today is 2015-11-18ввввввыа
 #comment for background
 
-@Critical @Test_1 @SC_437171348 @fgfg
-Scenario: Search books by publicationdddssss
+@SC_437171348 @Critical @Test_1 @fgfg
+Scenario: Search books by pu
 ffg
 And another book with the title 'Some other book', written by 'Tim Tomson Junior', published in 23 August 2014
 When the customer searches for books published between 2013 and 2014
