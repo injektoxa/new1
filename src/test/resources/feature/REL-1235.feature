@@ -85,3 +85,9 @@ Given test
 And test2
 When test
 
+@SC_650473492
+Scenario: ololo
+dddaasssdfadresddfrr
+Given ddaaaaaaaaaaa
+When eee
+
