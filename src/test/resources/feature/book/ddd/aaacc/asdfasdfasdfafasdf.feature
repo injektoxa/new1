@@ -2,12 +2,6 @@
 Feature: asdf
 asfd
 
-@asdfasdf @SC_1036630230
-Scenario: asdfeeeeeeee
-asdfasf
-Given asdfaaasd
-When asdfsdfsafsadf
-
 @SC_602294641
 Scenario: asdfввввeeeeууe
 asdf
