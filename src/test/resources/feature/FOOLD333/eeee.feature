@@ -5,6 +5,6 @@ eeee
 @SC_208013346 @eeeee
 Scenario: nameeedweeeвssss
 description
-Given aaaaeesdfasdfe
-When dddfdfas
+Given 1
+When 2
 
