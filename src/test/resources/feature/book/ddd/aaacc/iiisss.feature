@@ -10,8 +10,8 @@ When asfd
 @SC_325689167 @sef @fsdgsfs
 Scenario: esaf
 asef
-Given asdf
-When asdf
+Given 1
+When 2
 
 @SC_701335817
 Scenario: eeeedcdweee
