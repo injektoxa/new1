@@ -1,4 +1,4 @@
-@gfsdfgr @ST_323071584
+@ST_323071584 @gfsdfgr
 Feature: Auto test feature
 THIS IS DESCRIPTION
 
@@ -15,7 +15,7 @@ Given test
 And test2
 When test
 
-@SC_870075590 @tag
+@tag @SC_870075590
 Scenario: 33
 sdfsdfsgggg
 Given test
