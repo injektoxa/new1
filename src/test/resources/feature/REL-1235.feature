@@ -91,3 +91,8 @@ dddaasssdfadresddfrr
 Given ddaaaaaaaaaaa
 When eee
 
+@SC_477618811
+Scenario: asdasd
+When asd
+Then aldksj
+
