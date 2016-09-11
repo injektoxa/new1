@@ -43,3 +43,10 @@ Given test
 And test2
 When test
 
+@SC_838420431
+Scenario: 7
+sdfsdfsggg
+Given test
+And test2
+When test
+
