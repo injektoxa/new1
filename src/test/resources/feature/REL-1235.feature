@@ -71,3 +71,10 @@ Given test
 And test2
 When test
 
+@SC_848817612
+Scenario: 11
+sdfsdfsggg
+Given test
+And test2
+When test
+
