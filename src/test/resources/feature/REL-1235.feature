@@ -108,3 +108,9 @@ Given test
 And test2
 When test2222
 
+@tag @SC_1054798051
+Scenario: New Scenario
+descr
+Given something
+And anything
+
