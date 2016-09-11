@@ -7,12 +7,6 @@ asdfs
 Given sdaf
 When asfd
 
-@SC_488251235
-Scenario: ccfsddfsaiiвафыddsssss
-asdfdddd
-Given asdfddfsad
-When asdfas
-
 @SC_701335817
 Scenario: eeeedcdweee
 фыаeeeeeee
