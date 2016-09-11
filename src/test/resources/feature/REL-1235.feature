@@ -114,3 +114,9 @@ descr
 Given something
 And anything
 
+@New_tag @SC_114281836
+Scenario: Newer Scenario
+description
+When s
+And a
+
