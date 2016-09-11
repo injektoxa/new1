@@ -11,12 +11,6 @@ When asfd
 Scenario: esaf
 asef
 Given asdf
-Given asdf
-Given asdf
-Given asdf
-When asdf
-When asdf
-When asdf
 When asdf
 
 @SC_701335817
