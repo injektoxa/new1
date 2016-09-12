@@ -13,7 +13,7 @@ Scenario: 1
 Given asdf
 When asdf
 
-@sef @SC_325689167 @fsdgsfs
+@SC_325689167
 Scenario: 2
 asef
 Given 1
