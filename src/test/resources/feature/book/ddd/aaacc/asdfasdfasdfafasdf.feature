@@ -13,3 +13,7 @@ asdfaaa
 Given asdf
 When sdaf
 
+Scenario: bbbbb
+asdfaaa
+Given asdf
+When sdaf
