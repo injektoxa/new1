@@ -6,10 +6,10 @@ eee
 Given aaaa
 When eee
 
-@sdfgdf @SC_745018328
+@SC_745018328 @sdfgdf
 Scenario: sdfg
 sdfg
-Given  asdf
+Given asdf
 When asdf
 
 @asdf @SC_630675372
