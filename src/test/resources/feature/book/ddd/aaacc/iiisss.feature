@@ -7,15 +7,15 @@ asdfs
 Given sdaf
 When asfd
 
-@SC_325689167 @sef @fsdgsfs
-Scenario: esaf
-asef
-Given 1
-When 2
-
 @SC_701335817
 Scenario: eeeedcdweee
 фыаeeeeeee
 Given asdf
 When asdf
+
+@sef @SC_325689167 @fsdgsfs
+Scenario: esaf
+asef
+Given 1
+When 2
 

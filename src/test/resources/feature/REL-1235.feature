@@ -8,18 +8,18 @@ Given test
 And test2
 When test2222
 
-@SC_870075590 @tag
-Scenario: 33
-sdfsdfsgggg
-Given test
-And testnew
-When test
-
 @SC_694081178
 Scenario: Smoke scenarioddddff
 sdfsdfsggg
 Given test
 And test2
+When test
+
+@tag @SC_870075590
+Scenario: 33
+sdfsdfsgggg
+Given test
+And testnew
 When test
 
 @SC_795569489
