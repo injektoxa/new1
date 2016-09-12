@@ -2,7 +2,7 @@
 Feature: asdf
 asfd
 
-@SC_141600768
+@SC_141600768 @asdfasdf
 Scenario: bbbbb
 asdfaaa
 Given asdf
