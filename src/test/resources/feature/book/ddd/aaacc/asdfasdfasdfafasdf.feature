@@ -4,7 +4,6 @@ asfd
 
 @SC_616257359
 Scenario: dasf
-asdfsssdf
 Given aasdf
 When asdfasdf
 
