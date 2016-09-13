@@ -1,4 +1,4 @@
-@eee @ST_208224136
-Feature: EEEEdddds
+@ST_208224136 @eee
+Feature: EEEEddddse
 eeee
 
