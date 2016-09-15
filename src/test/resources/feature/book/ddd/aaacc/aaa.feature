@@ -7,7 +7,7 @@ Given aaaa
 When eee
 
 @SC_630675372 @asdf
-Scenario: a22222уeee
+Scenario: a22222уeeesdfs
 adf
 Given aaaa
 When eeeeddd
