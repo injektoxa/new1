@@ -6,14 +6,8 @@ eee
 Given aaaa
 When eee
 
-@SC_156695241 @asdf
-Scenario: asdfsssssseeee
-asdf
-Given aaf
-When asdf
-
-@asdf @SC_630675372
-Scenario: a22222у
+@SC_630675372 @asdf
+Scenario: a22222уee
 adf
 Given aaaa
 When eeeeddd
@@ -41,6 +35,12 @@ Scenario: adfe
 asdfsdf
 Given asdfas
 When asdfsdf
+
+@asdf @SC_156695241
+Scenario: asdfsssssseeee
+asdf
+Given aaf
+When asdf
 
 @asdf @SC_323653197
 Scenario: asdf
