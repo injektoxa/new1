@@ -6,14 +6,8 @@ eee
 Given aaaa
 When eee
 
-@SC_976913197
-Scenario: asdfав
-asdf
-Given aaaa
-When dddd
-
 @asdf @SC_630675372
-Scenario: a22222уeeesdfs
+Scenario: a22222уeeesdfsыы
 adf
 Given aaaa
 When eeeeddd
@@ -23,6 +17,12 @@ Scenario: asfdddde
 asdf
 When dasdeee
 Given dfdsa
+
+@SC_976913197
+Scenario: asdfав
+asdf
+Given aaaa
+When dddd
 
 @asdfasd @SC_325703944
 Scenario: eeeee
