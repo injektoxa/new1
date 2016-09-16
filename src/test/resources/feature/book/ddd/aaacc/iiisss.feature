@@ -7,9 +7,3 @@ asdfs
 Given sdaf
 When asfd
 
-@SC_701335817
-Scenario: 1ууу
-фыаeeeeeee
-Given asdf
-When asdf
-
