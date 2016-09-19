@@ -6,7 +6,7 @@ eee
 Given aaaa
 When eee
 
-@asdf @SC_630675372
+@SC_630675372 @asdf
 Scenario: a22222уeeesdfsыы
 adf
 Given aaaa
