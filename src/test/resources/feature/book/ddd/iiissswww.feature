@@ -1,4 +1,4 @@
-@iii @ST_985601948 @zxcv
+@ST_985601948 @zxcv
 Feature: iiieeeee34
 iiirrr
 
