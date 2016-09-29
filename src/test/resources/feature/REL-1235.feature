@@ -1,4 +1,4 @@
-@gfsdfgr @ST_682827539
+@gfsdfgr @ST_694675512
 Feature: Auto test feature
 THIS IS DESCRIPTION
 
@@ -120,7 +120,7 @@ description
 When s
 And a
 
-@asdf @SC_663061138
+@asdf @SC_639092844
 Scenario: asdf
 asdf
 Given asdf
