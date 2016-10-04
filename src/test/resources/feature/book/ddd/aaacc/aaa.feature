@@ -1,4 +1,4 @@
-@ST_794929043
+@ST_794929043 @sdfg
 Feature: aaaa
 
 Background: eeesassseeee4444
@@ -18,18 +18,6 @@ asdf
 When dasdeee
 Given dfdsa
 
-@SC_830027475
-Scenario: asdfав
-asdf
-Given aaaa
-When dddd
-
-@asdfasd @SC_820408808
-Scenario: eeeee
-sdfeeee
-Given aaad
-When dddd
-
 @asfdasdf @1111 @SC_800313973
 Scenario: adfeв
 asdfsdf
@@ -41,6 +29,18 @@ Scenario: asdfsssssseeee
 asdf
 Given aaf
 When asdf
+
+@SC_830027475
+Scenario: asdfав
+asdf
+Given aaaa
+When dddd
+
+@asdfasd @SC_820408808
+Scenario: eeeee
+sdfeeee
+Given aaad
+When dddd
 
 @asdf @SC_814596698
 Scenario: asdf

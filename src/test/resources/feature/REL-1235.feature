@@ -15,48 +15,6 @@ Given test
 And test2
 When test
 
-@tag @SC_796061441
-Scenario: 33
-sdfsdfsgggg
-Given testeee
-And testnew
-When test
-
-@SC_833822091
-Scenario: 4
-sdfsdfsggg
-Given test
-And testf
-When test
-
-@SC_796754944
-Scenario: 5
-sdfsdfsggg
-Given test
-And test2
-When test
-
-@SC_851349132
-Scenario: 6
-sdfsdfsggg
-Given test
-And test2
-When test
-
-@SC_839488912
-Scenario: 7
-sdfsdfsggg
-Given test
-And test2
-When test
-
-@SC_850293869
-Scenario: 8
-sdfsdfsggg
-Given test
-And test2
-When test
-
 @SC_861556909
 Scenario: 9
 sdfsdfsggg
@@ -85,6 +43,27 @@ Given test
 And test2
 When test
 
+@SC_851349132
+Scenario: 6
+sdfsdfsggg
+Given test
+And test2
+When test
+
+@SC_839488912
+Scenario: 7
+sdfsdfsggg
+Given test
+And test2
+When test
+
+@SC_850293869
+Scenario: 8
+sdfsdfsggg
+Given test
+And test2
+When test
+
 @SC_864988999
 Scenario: ololo
 dddaasssdfadresddfrr
@@ -102,6 +81,18 @@ Given test
 And test2
 When test
 
+@New_tag @SC_809506271
+Scenario: Newer Scenario
+description
+When s
+And a
+
+@asdf @SC_844866950
+Scenario: asdf
+asdf
+Given asdf
+When asdf
+
 @SC_839913202
 Scenario: bg
 Given test
@@ -114,15 +105,24 @@ descr
 Given something
 And anything
 
-@New_tag @SC_809506271
-Scenario: Newer Scenario
-description
-When s
-And a
+@tag @SC_796061441
+Scenario: 33
+sdfsdfsgggg
+Given testeee
+And testnew
+When test
 
-@asdf @SC_844866950
-Scenario: asdf
-asdf
-Given asdf
-When asdf
+@SC_833822091
+Scenario: 4
+sdfsdfsggg
+Given test
+And testf
+When test
+
+@SC_796754944
+Scenario: 5
+sdfsdfsggg
+Given test
+And test2
+When test
 
