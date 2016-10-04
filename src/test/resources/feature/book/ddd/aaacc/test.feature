@@ -1,3 +1,3 @@
-@Smoke @ST_404521112
+@Smoke @ST_869974816
 Feature: Test
 
