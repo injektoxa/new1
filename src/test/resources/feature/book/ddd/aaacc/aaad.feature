@@ -6,12 +6,6 @@ eee
 Given aaaa
 When eee
 
-@ddd @SC_55940957
-Scenario: asdfee
-asdf
-Given adf
-When easdf
-
 @asfdasdf @1111 @SC_63012152
 Scenario: adfeв
 asdfsdf
@@ -19,7 +13,7 @@ Given asdfas
 When asdfsdf
 
 @asdf @SC_53856259
-Scenario: asdfsssssseeee
+Scenario: asdfsssssseeeeewr
 asdf
 Given aaf
 When asdf
@@ -47,6 +41,12 @@ Scenario: 11111
 111111
 Given 1
 When 2
+
+@ddd @SC_55940957
+Scenario: asdfee
+asdf
+Given adf
+When easdf
 
 @asdfasdf @SC_89890514
 Scenario: asfdddde
