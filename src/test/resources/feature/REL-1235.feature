@@ -1,4 +1,4 @@
-@gfsdfgr @ST_801195926
+@gfsdfgr @ST_57740398
 Feature: Auto test feature
 THIS IS DESCRIPTION
 
@@ -8,118 +8,118 @@ Given test
 And test2
 When test2222
 
-@SC_809375252
+@SC_129577872
 Scenario: Smoke scenarioddddfffg
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_861556909
+@SC_131931300
 Scenario: 9
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_823397703
+@SC_90803492
 Scenario: 10
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_851205901
+@SC_106154126
 Scenario: 11
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_835778448
+@SC_134237687
 Scenario: 12 CHANGED
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_851349132
+@SC_126536459
 Scenario: 6
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_839488912
+@SC_105138350
 Scenario: 7
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_850293869
+@SC_73642512
 Scenario: 8
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_864988999
+@SC_77644008
 Scenario: ololo
 dddaasssdfadresddfrr
 Given ddaaaaaaaaaaa
 When eee
 
-@SC_875189784
+@SC_104137973
 Scenario: asdasd
 When asd
 Then aldksj
 
-@SC_798155225
+@SC_125728180
 Scenario: bg
 Given test
 And test2
 When test
 
-@New_tag @SC_809506271
+@New_tag @SC_50139298
 Scenario: Newer Scenario
 description
 When s
 And a
 
-@asdf @SC_844866950
+@asdf @SC_73388746
 Scenario: asdf
 asdf
 Given asdf
 When asdf
 
-@SC_839913202
+@SC_122989373
 Scenario: bg
 Given test
 And test2
 When test2222
 
-@tag @SC_873495769
+@tag @SC_99559767
 Scenario: New Scenario
 descr
 Given something
 And anything
 
-@tag @SC_796061441
+@tag @SC_124077566
 Scenario: 33
 sdfsdfsgggg
 Given testeee
 And testnew
 When test
 
-@SC_833822091
+@SC_84979265
 Scenario: 4
 sdfsdfsggg
 Given test
 And testf
 When test
 
-@SC_796754944
+@SC_100347960
 Scenario: 5
 sdfsdfsggg
 Given test
