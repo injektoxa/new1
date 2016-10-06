@@ -7,7 +7,7 @@ Given aaaa
 When eee
 
 @asfdasdf @1111 @SC_622201186
-Scenario: adfeвцуууыаыыывваа
+Scenario: adfeвцуууыаыыыввааывы
 asdfsdf
 Given asdfas
 When asdfsdf
@@ -25,7 +25,7 @@ Given aaad
 When dddd
 
 @asdf @SC_650913997
-Scenario: asdfыыыы
+Scenario: asdfыыыыыы
 asdf
 Given asd
 When asdf
