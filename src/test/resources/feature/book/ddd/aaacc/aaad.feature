@@ -7,7 +7,7 @@ Given aaaa
 When eee
 
 @asfdasdf @1111 @SC_622201186
-Scenario: adfeвцуууыаыыыввааывы
+Scenario: adfeвцуууыаыыыввааывыв
 asdfsdf
 Given asdfas
 When asdfsdf
