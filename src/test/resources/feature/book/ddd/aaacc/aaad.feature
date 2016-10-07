@@ -6,14 +6,14 @@ eee
 Given aaaa
 When eee
 
-@SC_979101867 @asfdasdf @1111
+@asfdasdf @1111 @SC_979101867
 Scenario: adfeвцуууыаыыыввааывыву
 asdfsdf
 Given asdfas
 When asdfsdf
 
 @asdf @SC_986389037
-Scenario: asdfsssssseeeeewr
+Scenario: asdfsssssseeeeewrdss
 asdf
 Given aaf
 When asdf
