@@ -6,7 +6,7 @@ eee
 Given aaaa
 When eee
 
-@asfdasdf @1111 @SC_979101867
+@SC_979101867 @asfdasdf @1111
 Scenario: adfeвцуууыаыыыввааывыву
 asdfsdf
 Given asdfas
