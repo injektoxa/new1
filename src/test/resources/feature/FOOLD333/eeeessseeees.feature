@@ -1,3 +1,3 @@
-@ST_40 @eee
+@ST_48 @eee
 Feature: EEEEddddseee
 eeee
