@@ -1,3 +1,3 @@
-@ST_16 @eee
+@ST_24 @eee
 Feature: EEEEddddseee
 eeee

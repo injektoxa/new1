@@ -1,4 +1,4 @@
-@ST_10 @sdfasf
+@ST_18 @sdfasf
 Feature: asdf
 asfd
 
@@ -7,18 +7,18 @@ Background: 2222
 Given a
 When b
 
-@SC_56
+@SC_91
 Scenario: dasffffeeeeee
 Given aasdf
 When asdfasdf
 
-@SC_57 @aaa
+@SC_92 @aaa
 Scenario: aaaaa
 asdfaaa
 Given asdf
 When sdaf
 
-@SC_58 @asdfasdf
+@SC_93 @asdfasdf
 Scenario: bbbbb
 asdfaaa
 Given asdf
