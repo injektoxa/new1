@@ -1,4 +1,4 @@
-@sdfg @ST_928096833
+@ST_12 @sdfg
 Feature: aaaa
 
 Background: eeesassseeee4444ыыввыввв
@@ -6,63 +6,62 @@ eee
 Given aaaa
 When eee
 
-@asfdasdf @1111 @SC_979101867
+@SC_61 @asfdasdf @1111
 Scenario: adfeвцуууыаыыыввааывыву
 asdfsdf
 Given asdfas
 When asdfsdf
 
-@asdf @SC_986389037
+@SC_62 @asdf
 Scenario: asdfsssssseeeeewrdss
 asdf
 Given aaf
 When asdf
 
-@asdfasd @SC_919372775
+@SC_63 @asdfasd
 Scenario: eeeeeууу
 sdfeeee
 Given aaad
 When dddd
 
-@asdf @SC_944941447
+@SC_64 @asdf
 Scenario: asdfыыыыыы
 asdf
 Given asd
 When asdf
 
-@SC_997018934
+@SC_65
 Scenario: asdfавы
 asdf
 Given aaaa
 When dddd
 
-@11111 @SC_994194640
+@SC_66 @11111
 Scenario: 11111
 111111
 Given 1
 When 2
 
-@ddd @SC_922317585
+@SC_67 @ddd
 Scenario: asdfee
 asdf
 Given adf
 When easdf
 
-@asdfasdf @SC_970682983
+@SC_68 @asdfasdf
 Scenario: asfdddde
 asdf
 When dasdeee
 Given dfdsa
 
-@sdfgdf @SC_968945678
+@SC_69 @sdfgdf
 Scenario: sdfg
 sdfg
 Given asdf
 When asdf
 
-@asdf @SC_984305275
+@SC_70 @asdf
 Scenario: a22222уeeesdfsыы3а
 adf
 Given aaaa
 When eeeeddd
-

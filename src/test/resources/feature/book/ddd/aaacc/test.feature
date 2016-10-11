@@ -1,3 +1,2 @@
-@Smoke @ST_975719516
+@ST_15 @Smoke
 Feature: Test
-

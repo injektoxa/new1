@@ -1,4 +1,3 @@
-@sdfg @ST_970541172
+@ST_13 @sdfg
 Feature: eeeetrr
 deeesc
-
