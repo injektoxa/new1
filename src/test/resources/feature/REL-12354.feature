@@ -1,4 +1,4 @@
-@ST_25 @gfsdfgr
+@ST_33 @gfsdfgr
 Feature: Auto test feature
 THIS IS DESCRIPTION
 
@@ -8,118 +8,118 @@ Given test
 And test2
 When test2222
 
-@SC_107
+@SC_142
 Scenario: 5
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_108
+@SC_143
 Scenario: 7ddd
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_109
+@SC_144
 Scenario: 8
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_110
+@SC_145
 Scenario: ololo
 dddaasssdfadresddfrr
 Given ddaaaaaaaaaaa
 When eee
 
-@SC_111
+@SC_146
 Scenario: 11
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_112
+@SC_147
 Scenario: 12 CHANGED
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_113
+@SC_148
 Scenario: 6
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_114
+@SC_149
 Scenario: asdasd
 When asd
 Then aldksj
 
-@SC_115
+@SC_150
 Scenario: bg
 Given test
 And test2
 When test
 
-@SC_116 @New_tag
+@SC_151 @New_tag
 Scenario: Newer Scenario
 description
 When s
 And a
 
-@SC_117 @tag
+@SC_152 @tag
 Scenario: New Scenario
 descr
 Given something
 And anything
 
-@SC_118 @tag
+@SC_153 @tag
 Scenario: 33
 sdfsdfsgggg
 Given testeee
 And testnew
 When test
 
-@SC_119
+@SC_154
 Scenario: 4
 sdfsdfsggg
 Given test
 And testf
 When test
 
-@SC_120 @asdf
+@SC_155 @asdf
 Scenario: asdf
 asdf
 Given asdf
 When asdf
 
-@SC_121
+@SC_156
 Scenario: bg
 Given test
 And test2
 When test2222
 
-@SC_122
+@SC_157
 Scenario: Smoke scenarioddddfffg
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_123
+@SC_158
 Scenario: 9
 sdfsdfsggg
 Given test
 And test2
 When test
 
-@SC_124
+@SC_159
 Scenario: 10
 sdfsdfsggg
 Given test

@@ -1,2 +1,2 @@
-@ST_31 @Smoke
+@ST_39 @Smoke
 Feature: Test
