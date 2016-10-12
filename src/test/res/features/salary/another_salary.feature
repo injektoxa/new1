@@ -34,7 +34,8 @@ Examples:
 |7|mickey|51000.0|
 |8|fethry|66500.0|
 
-@newOne
+
+@SC_3 @newOne
 Scenario: THiS is sc
 Given 1
 When 2
