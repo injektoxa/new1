@@ -1,5 +1,5 @@
 @ST_1 @Story_SalaryManagement
-Feature: Salary
+Feature: Salary1111
 
 @SC_1 @Critical @Test_1
 Scenario: Modify
