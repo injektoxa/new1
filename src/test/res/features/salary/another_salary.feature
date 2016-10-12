@@ -33,3 +33,9 @@ Examples:
 |6|minnie|62000.0|
 |7|mickey|51000.0|
 |8|fethry|66500.0|
+
+@newOne
+Scenario: THiS is sc
+Given 1
+When 2
+Then 3
