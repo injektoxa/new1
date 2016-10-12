@@ -1,7 +1,7 @@
-@ST_4908 @Story_SalaryManagementwer
+@ST_5034 @Story_SalaryManagementwer
 Feature: Salary
 
-@SC_20883
+@SC_21370
 Scenario: Modify an employee's salary
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
