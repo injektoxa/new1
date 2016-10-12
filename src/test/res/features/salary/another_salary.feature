@@ -2,7 +2,7 @@
 Feature: Salary
 
 @SC_1 @Critical @Test_1
-Scenario: Modify an employee's salary
+Scenario: Modify
 Given the salary management system is initialized with the following data
 |id|user|salary|
 |1|donald|60000.0|
