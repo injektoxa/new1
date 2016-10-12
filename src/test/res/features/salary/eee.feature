@@ -1,4 +1,4 @@
-Story_SalaryManagementwer
+#Story_SalaryManagementwer
 Feature: Salary
 
 Scenario: Modify an employee's salary
