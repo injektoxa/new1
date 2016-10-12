@@ -1,7 +1,5 @@
-@test1
 Feature: Name of feature
 
-@SCenario
 Scenario: MyFirst
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
