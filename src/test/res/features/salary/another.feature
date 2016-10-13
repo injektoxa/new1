@@ -1,4 +1,7 @@
+@ST_12
 Feature: new
+
+@SC_13
 Scenario: NewModify
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
