@@ -1,5 +1,7 @@
+@ST_52
 Feature: Salary1111
 
+@SC_53
 Scenario: Modify
 Given the salary management system is initialized with the following data
 |id|user|salary|
@@ -15,6 +17,7 @@ Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
 Then the payroll for the employee with id '3' should display a salary of 57750
 
+@SC_54
 Scenario Outline: Modify an employee's salary
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
@@ -32,6 +35,7 @@ Examples:
 |8|fethry|66500.0|
 
 
+@SC_55
 Scenario: THiS is sc
 Given 1
 When 2
