@@ -3,5 +3,5 @@ Feature: 123
 
 @SC_95
 Scenario: 321
-Given 1
+Given 3
 When 2
