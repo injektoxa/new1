@@ -1,7 +1,7 @@
-@ST_75
+@ST_88
 Feature: new
 
-@SC_82
+@SC_96
 Scenario: NewModify
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the employee with id '3' by 5%
