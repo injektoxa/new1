@@ -1,4 +1,5 @@
 @ST_90
 Feature: eeee
-@ttt
+
+@SC_101 @ttt
 Scenario: blabla
