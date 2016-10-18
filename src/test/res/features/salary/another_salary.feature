@@ -1,4 +1,4 @@
-@ST_76 @ST_76
+@ST_76
 Feature: Salary1111
 
 @SC_83
