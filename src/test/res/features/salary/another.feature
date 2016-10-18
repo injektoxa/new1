@@ -1,4 +1,4 @@
-@ST_75 @ST_75
+@ST_75
 Feature: new
 
 @SC_82
