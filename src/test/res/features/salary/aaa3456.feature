@@ -6,7 +6,8 @@ DESCR
 Scenario: 321e33333
 This is gonna be descr
 Given 3f
-When 2
+When 2eee
+When the customer searches for books published between [number] and [number]
 
 @SC_102 @ee @sss @CUSTOM
 Scenario: secong
