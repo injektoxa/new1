@@ -2,7 +2,7 @@
 Feature: 1234
 DESCR
 
-@SC_95 @eee @sdf @test
+@SC_95 @test
 Scenario: 321e33333
 This is gonna be descr
 Given 3f
