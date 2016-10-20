@@ -1,4 +1,4 @@
-@ST_87 @aaa @ee
+@ST_87 @ee @aaa
 Feature: 123
 
 @SC_102 @ee
