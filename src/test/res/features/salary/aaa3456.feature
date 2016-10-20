@@ -1,5 +1,6 @@
 @ST_87 @aaa @this-is-new-tag @sss
 Feature: 1234
+DESCR
 
 @SC_95 @eee @sdf @test
 Scenario: 321e
