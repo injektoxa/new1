@@ -4,7 +4,7 @@ Feature: 123
 @SC_102 @ee
 Scenario: secong
 Given e
-When b
+When bуууу
 
 @SC_95 @eee @sdf @test
 Scenario: 321e
