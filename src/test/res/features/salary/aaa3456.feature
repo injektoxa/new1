@@ -4,6 +4,7 @@ DESCR
 
 @SC_95 @eee @sdf @test
 Scenario: 321e33333
+This is gonna be descr
 Given 3f
 When 2
 
