@@ -1,4 +1,4 @@
-@ST_88
+@ST_88 @asdf @defs
 Feature: new
 
 @SC_96
