@@ -1,4 +1,4 @@
-@ST_87 @aaa @this-is-new-tag
+@ST_87 @aaa @this-is-new-tag @sss
 Feature: 1234
 
 @SC_95 @eee @sdf @test
