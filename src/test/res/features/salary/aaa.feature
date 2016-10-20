@@ -1,7 +1,7 @@
 @ST_87 @aaa @ee
 Feature: 123
 
-@SC_102 @ee @sss
+@SC_102 @ee @sss @CUSTOM
 Scenario: secong
 Given e
 When bуууу
