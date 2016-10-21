@@ -3,6 +3,6 @@ Feature: new
 
 @SC_96
 Scenario: NewModifyd2
-Given the salary management system is initialized with the following data
-When the boss increases the salary for the employee with id '3' by 5%
-Then the payroll for the employee with id '3' should display a salary of 57750
+Given 1the salary management system is initialized with the following data
+When 2 the boss increases the salary for the employee with id '3' by 5%
+Then 3 the payroll for the employee with id '3' should display a salary of 57750
