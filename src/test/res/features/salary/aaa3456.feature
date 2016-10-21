@@ -12,3 +12,5 @@ Scenario: eee
 eee
 Given c
 When a
+Then bdddss
+
