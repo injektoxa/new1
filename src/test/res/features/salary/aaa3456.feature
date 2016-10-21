@@ -10,7 +10,6 @@ When bуууу
 @SC_103 @eee
 Scenario: eee
 eee
-
 Given c
-When adddd
-Then bdddrrrss
+When a
+Then bdddssdsdf
