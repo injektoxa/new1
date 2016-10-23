@@ -1,5 +1,5 @@
-@ST_85 @aasdf @eee
+@ST_99 @aasdf @eee
 Feature: eeee
 
-@SC_100
+@SC_110
 Scenario: 2
