@@ -1,7 +1,7 @@
-@ST_100
+@ST_125
 Feature: beforeLeave
 
-@SC_111
+@SC_125
 Scenario: First
 Given ddd
 When ssss
