@@ -1,7 +1,7 @@
-@ST_1124
+@ST_1129
 Feature: new
 
-@SC_1122 @eee
+@SC_1124 @eee
 Scenario: NewModifyd2
 ууууу
 Given 1the salary management system is initialized with the following data

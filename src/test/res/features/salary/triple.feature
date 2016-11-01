@@ -1,2 +1,2 @@
-@ST_1128
+@ST_1130
 Feature: triple
